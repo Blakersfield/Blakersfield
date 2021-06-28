@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blakersfield
 - 👀 I’m interested in ML, CTF
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently learning arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dead drop, numbers station or one-time-pad
 
