@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blakersfield
 - 👀 I’m interested in ML, CTF
 - 🌱 I’m currently learning arduino
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a VR project, preferably UE but I'd be open to unity if the concept is cool enough
 - 📫 How to reach me: dead drop, numbers station or one-time-pad
 
 <!---
