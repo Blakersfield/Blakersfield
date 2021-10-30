@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Blakersfield
-- 👀 I’m interested in ML, CTF
-- 🌱 I’m currently learning arduino
-- 💞️ I’m looking to collaborate on a VR project, preferably UE but I'd be open to unity if the concept is cool enough
-- 📫 How to reach me: dead drop, numbers station or one-time-pad
+- 👀 I’m interested in machine learning and software engineering
+- 🌱 I’m currently learning convolutional neural networks, image analysis
+- 💞️ I’m looking to collaborate on a machine vision, anomaly detection
+- 📫 How to reach me: ping me on LinkedIn
 
 <!---
 Blakersfield/Blakersfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
