@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blakersfield
-- 👀 I’m interested in machine learning and software engineering
+- 👀 I’m interested in ML, computer vision, mechatronics
 - 🌱 I’m currently learning stereovision, point cloud segmentation, image synthesis
 - 💞️ I’m looking to collaborate on a machine vision, anomaly detection
         also, if you know me personally and you're working on a game or something fun hit me up, would love to contribute.
